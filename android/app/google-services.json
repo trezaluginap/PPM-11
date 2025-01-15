@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634675205504",
+    "project_id": "fir-c91ed",
+    "storage_bucket": "fir-c91ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634675205504:android:8ab9535fb42472c7191d65",
+        "android_client_info": {
+          "package_name": "com.amimasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0g0pCoIM7J3QqSKgbWwIA0gfoQIGLcI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
